@@ -1,0 +1,27 @@
+@media (max-width: 1366px) {
+	body {
+		font-size: 18px;
+	}
+
+	h1 {
+		font-size: 43px;
+	}
+
+	.header__img {
+		top: 0;
+	}
+
+	.main__phone-img {
+		height: 550px;
+	}
+
+	.main__content {
+		margin-left: 120px;
+		margin-top: 75px;
+	}
+
+	.main__title {
+		font-size: 43px;
+		display: none;
+	}
+}
